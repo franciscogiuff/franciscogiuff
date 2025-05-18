@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @franciscogiuff
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning JS,HTML,CSS,PYTHON
 - 💞️ I’m looking to collaborate on good learning proyects
 - 📫 How to reach me franciscojgiuffrida@gmail.com
